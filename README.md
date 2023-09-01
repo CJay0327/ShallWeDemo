@@ -1,7 +1,5 @@
 # ShallWe
 
-Thanks for visiting @Jay Choi's Github repository! 
-
 ShallWe is a leisure mobile application that [Jay Choi](https://www.linkedin.com/in/jchoiucb/) and [Charles Oh](https://www.linkedin.com/in/younghoonoh/) are developing.
 
 Tired of looking for restaurants, cafe, or places to hang out?
