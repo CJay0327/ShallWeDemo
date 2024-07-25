@@ -10,26 +10,11 @@ Don't bother! With few clicks and keywords, get all of your options gathered by 
 
 # Demo Videos 
 
-Search Options/Schedules locally
+https://github.com/user-attachments/assets/c2e242a9-96e6-44e1-bcab-864c38989d1b
 
-
-https://github.com/CJay0327/ShallWeDemo/assets/89056261/a2db9b16-a18e-49eb-a0c9-f46bfef9b133
-
-
-
-Search options/schedules at somewhere you aren't familiar with
-
-
-
-https://github.com/CJay0327/ShallWeDemo/assets/89056261/4142dffb-2a67-4dfa-8a3e-8e93f3cbf84c
-
-
-
-
+Very long loading time due to connection and hacky server setups yet 😅
 
 # Demo / Beta App
 Coming Soon! :)
 
 Do you have any feedbacks about product or interested in working with us? CJay000327@gmail.com
-
-Coming to App Store by October 2023!
